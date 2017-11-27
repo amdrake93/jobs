@@ -7,7 +7,7 @@ At [**eDataSource**](http://www.edatasource.com) we analyze and generate actiona
 
 ## Who We Are
 
-Our Development team consists of 15 (and growing) collaborative and exceptionally talented engineers, located in 4 different cities.  We like to brag to clients that we have some of the most talented developers and devops engineers they have ever worked with or met.  
+Our Development team consists of 15 (and growing) collaborative and exceptionally talented engineers, located in 4 different cities.  We like to brag to clients that we have some of the most talented developers and devops engineers they have ever worked with or met.
 
 Our team, including most of our executive team, all work **at home**.  Our primary communication method is [**Slack**](http://www.slack.com). It's not uncommon to see our team adding their own plugins and bots to help make mundane tasks more fun. In addition, we use Slack to notify developers when code has been deployed and is available on QA for test.
 
@@ -16,24 +16,24 @@ Our team culture is a mix of structured and organized unorganization.  We strive
 
 Our core principal is that our teams are built upon two non-negotiatbles: **(1) Mutual trust** and **(2)Mutual respect**. We will always choose to hire a less skilled developer with the awesome attitude and work-ethic, over the amazing, but self-righteous, cocky developer, who can't get along with any of his or her peers.
 
-Failure is expected. Our CTO's marching order is:  "If you have not failed, you have not risked enough."  We don't want to make stupid mistakes, but even when they happen, our focus is to learn from them and to automate the systems such that they won't happen again.  Every developer must read, [Debugging Teams](https://www.amazon.com/Debugging-Teams-Productivity-through-Collaboration/dp/1491932058). 
+Failure is expected. Our CTO's marching order is:  "If you have not failed, you have not risked enough."  We don't want to make stupid mistakes, but even when they happen, our focus is to learn from them and to automate the systems such that they won't happen again.  Every developer must read, [Debugging Teams](https://www.amazon.com/Debugging-Teams-Productivity-through-Collaboration/dp/1491932058).
 
 ## How We’re Organized
 
-We have experimented heavily over the past few years with different team structures.  Just recently, we have moved to small (4-5 member) cross-functional, project teams.  These teams manage projects within their own task tracking board that traces to the main project-level boards. Teams are free to structure their development process around what works best for that individual team and their team members.  
+We have experimented heavily over the past few years with different team structures.  Just recently, we have moved to small (4-5 member) cross-functional, project teams.  These teams manage projects within their own task tracking board that traces to the main project-level boards. Teams are free to structure their development process around what works best for that individual team and their team members.
 
-Full-team meetings are rare.  
-Team collaboration and communication is high.  
-Slack channels are heavily used. 
+Full-team meetings are rare.
+Team collaboration and communication is high.
+Slack channels are heavily used.
 Geographically located team members meet on Thursdays together (usually taking over a coffee shop).
 
 ## Processes & Workflow
 
-We follow an agile kanban process.  Each developer **pulls** a task that they are interested in working and work that task until they are finished. Project teams have quick and informal check-in meetings once-per-week, with the rest of the communication taking place via Slack.  
+We follow an agile kanban process.  Each developer **pulls** a task that they are interested in working and work that task until they are finished. Project teams have quick and informal check-in meetings once-per-week, with the rest of the communication taking place via Slack.
 
-Every line of code is **peer reviewed** by another developer. We value openness. Your code will be critiqued, both for function and, yes, even style. We do so in a non-personal manner, but highly value code which not only works, but is maintainable. 
+Every line of code is **peer reviewed** by another developer. We value openness. Your code will be critiqued, both for function and, yes, even style. We do so in a non-personal manner, but highly value code which not only works, but is maintainable.
 
-We are developer-centric from the bottom-up. If the process isn't working for developers, the process is changed. 
+We are developer-centric from the bottom-up. If the process isn't working for developers, the process is changed.
 
 ## Stack & Tools
 Our applications are built with AngularJS and Java, making heavy use of **AWS**, **Aurora**, **redis** and **elasticsearch**.
@@ -44,38 +44,38 @@ We track our work with [**Kanbanize**](https://kanbanize.com/) and use **git** a
 
 ## Our [“Joel Test”](http://www.joelonsoftware.com/articles/fog0000000043.html) Answers
 
-* **Do you use source control?**  
+* **Do you use source control?**
   Yes. git & GitHub.
 
-* **Can you make a build in one step?**  
+* **Can you make a build in one step?**
   Yes. This is fully automated with CircleCI.
 
-* **Do you make daily builds?**  
-  Yes, we use continuous automation and automated deployments to QA.
+* **Do you make daily builds?**
+  Yes. We use continuous automation and automated deployments to QA.
 
-* **Do you have a bug database?**  
-  Yes, we track bugs in a kanban board
+* **Do you have a bug database?**
+  Yes. We track bugs in a kanban board
 
-* **Do you fix bugs before writing new code?**  
+* **Do you fix bugs before writing new code?**
   It depends.  Bugs are prioritized and fixed accorrding to level of severity.
 
-* **Do you have an up-to-date schedule?**  
+* **Do you have an up-to-date schedule?**
   Yes. Teams are aware of the projects and schedules are set according to realistic delivery expectations
 
-* **Do you have a spec?**  
+* **Do you have a spec?**
   Yes. Most of our specs are wireframe designs, with relevant copy as necessary
 
-* **Do programmers have quiet working conditions?**  
+* **Do programmers have quiet working conditions?**
   It's up to you! Our developers work remotely and can have their environment as quiet or loud as they like
 
-* **Do you use the best tools money can buy?**  
+* **Do you use the best tools money can buy?**
   Usually.  The one exception to this is we have found the cost of IntelliJ hard to continue justifying.
 
-* **Do you have testers?**  
-  It depends by you mean by testers.  We do not believe in a dedicated QA team that code is thrown to.  Instead, developers are responsible for testing their peers code.  All code and deployments are tested.
+* **Do you have testers?**
+  It depends by what you mean by testers.  We do not believe in a dedicated QA team that code is thrown to.  Instead, developers are responsible for testing their peers' code.  All code and deployments are tested.
 
-* **Do new candidates write code during their interview?**  
+* **Do new candidates write code during their interview?**
   Yes.
 
-* **Do you do hallway usability testing?**  
+* **Do you do hallway usability testing?**
   Yes. Through in-person meetups on Thursday and via Slack
